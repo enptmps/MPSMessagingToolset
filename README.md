@@ -1,7 +1,7 @@
 # Messaging Toolset
 <br />
 ## Windows Tools
-<https://www.techsmith.com/snagit.html "TechSmith SnagIt 12"> - Powerful screen capture tool NFR copies available for the team
+[https://www.techsmith.com/snagit.html](TechSmith SnagIt 12) - Powerful screen capture tool NFR copies available for the team
 Remote Server Administration Tools - Microsoft server component tools for desktop OS
 * <https://www.microsoft.com/en-us/download/details.aspx?id=45520 "For Windows 10">
 * <https://www.microsoft.com/en-us/download/details.aspx?id=39296For "Windows 8.1 x64">
@@ -19,7 +19,7 @@ Remote Server Administration Tools - Microsoft server component tools for deskto
 ## OFfice 365
 <http://go.microsoft.com/fwlink/?LinkID=286152 "Microsoft Online Services Sign-In Assistant for IT Pros"><br />
 <http://go.microsoft.com/fwlink/p/?linkid=236297 "Azure Active Directory Module for Windows PowerShell (64bit)"><br />
-* Connection instructions
-	>	`PS:>$msolcred = get-credential`
+* Connection instructions<br />
+	>	`PS:>$msolcred = get-credential`<br />
 	>	`PS:>connect-msolservice -credential $msolcred`
 <https://channel9.msdn.com/Events/Ignite/2015/BRK3862 "Azure Active Directory Connect on Channel9"> 
