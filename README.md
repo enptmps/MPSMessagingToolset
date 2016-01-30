@@ -1,7 +1,7 @@
 # Messaging Toolset
 <br />
 ## Windows Tools
-[https://www.techsmith.com/snagit.html](TechSmith SnagIt 12) - Powerful screen capture tool NFR copies available for the team
+[TechSmith SnagIt 12](https://www.techsmith.com/snagit.html) - Powerful screen capture tool NFR copies available for the team
 Remote Server Administration Tools - Microsoft server component tools for desktop OS
 * <https://www.microsoft.com/en-us/download/details.aspx?id=45520 "For Windows 10">
 * <https://www.microsoft.com/en-us/download/details.aspx?id=39296For "Windows 8.1 x64">
